@@ -3,5 +3,12 @@ body {
 }
 
 .header {
+  text-align: center;
   margin-bottom: 50px;
 }
+
+.footer {
+  text-align: center;
+  margin-top: 50px;
+}
+
